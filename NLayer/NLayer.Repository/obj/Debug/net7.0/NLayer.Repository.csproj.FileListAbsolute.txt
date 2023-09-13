@@ -1,0 +1,15 @@
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.deps.json
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.dll
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.pdb
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.dll
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.pdb
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.dll
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\refint\NLayer.Repository.dll
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.pdb
+C:\Users\Kadircan\Desktop\NLayer\NLayer\NLayer.Repository\obj\Debug\net7.0\ref\NLayer.Repository.dll
